@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on:  
-  [Facebook-style Auth System](https://github.com/ghostrayan/fb-auth-clone)
+  [Beauty-Parlour](https://github.com/journeytozero/BEAUTY-PARLOUR)
 
 - 🌱 I’m currently learning:  
   `Laravel`, `React`, `Firebase`, `TypeScript`
