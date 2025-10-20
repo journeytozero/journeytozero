@@ -8,7 +8,7 @@
   `Laravel`, `React`, `Firebase`, `TypeScript`
 
 - 👨‍💻 All of my projects are available at:  
-  [github.com/ghostrayan](https://github.com/journeytozero)
+  [github.com/journeytozero](https://github.com/journeytozero)
 
 - 💬 Ask me about:  
   `PHP`, `JavaScript`, `Bootstrap`, `GSAP`, `MySQL`, `Responsive Design`
