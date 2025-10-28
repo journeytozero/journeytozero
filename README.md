@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on:  
-  [Beauty-Parlour](https://github.com/journeytozero/Agrolink)
+  [Agrolink-Laravel-React](https://github.com/journeytozero/Agrolink)
 
 - 🌱 I’m currently learning:  
   `Laravel`, `React`, `Firebase`, `TypeScript`
